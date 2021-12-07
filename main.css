@@ -1,0 +1,32 @@
+.picture1 {
+    background-color: rgb(169, 169, 240);
+    background-image: url('wallpaperflare.com_wallpaper.jpg');
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1750px;
+    background-position: center;
+    background-attachment: fixed;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.picture2 {
+    background-color: rgb(169, 169, 250);
+    background-image: url('wallpaperflare.com_wallpaper_1.jpg');
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1750px;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.picture3 {
+    background-color: rgb(169, 169, 230);
+    background-image: url('wallpaperflare.com_wallpaper_2.jpg');
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: 1750px;
+    background-position: center;
+    background-attachment: fixed;
+}
